@@ -9,6 +9,9 @@ This project analyzes insurance claim data to identify claim trends, risk patter
 - Synthetic insurance claims dataset
 - 500 claim records
 - Multiple claim types: Auto, Health, Home, Life, Travel
+## SQL Assumptions
+- Dataset imported into SQL as table: `insurance_claims`
+- Date calculations use standard SQL date functions
 
 ## Tools & Technologies
 - Excel
